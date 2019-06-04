@@ -1,3 +1,8 @@
+/*
+ * @file rand.c
+ * @brief  sample code for range specification rand_r()
+ */
+
 #include <stdio.h>
 #include "rand.h"
 
