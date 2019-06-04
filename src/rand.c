@@ -4,7 +4,6 @@
  */
 
 #include <stdlib.h>
-#include "rand.h"
 
 int getrand(unsigned int* seed, int min, int max)
 {

@@ -3,4 +3,4 @@
  * @brief  Range specification rand_r()
  */
 
-int getrand(unsigned int* seed, int min, int max);
+extern int getrand(unsigned int* seed, int min, int max);
